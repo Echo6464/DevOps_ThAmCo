@@ -1,0 +1,47 @@
+﻿@model Producks.Data.Order
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Customer Order Details";
+}
+
+<h1>Customer Order Details</h1>
+
+<div>
+    <h4>Order Details</h4>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Product
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Price Per Item
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderDetails)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.quantity)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product.Price)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    @inject IHttpContextAccessor HttpContextAccessor
+    <a asp-action="Details" asp-route-id="@Model.CustId">Back to Customer Details</a>
+</div>

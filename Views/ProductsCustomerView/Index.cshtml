@@ -1,0 +1,104 @@
+﻿@model IEnumerable<Producks.Web.ViewModels.ProductCustomerVM>
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Browse Products";
+}
+
+<h1>List of Products</h1>
+
+@using (Html.BeginForm("Index", "ProductsCustomerView", FormMethod.Get))
+{
+    <fielset>
+        <p>
+            Category:
+            @Html.DropDownList("prodCat", (IEnumerable<SelectListItem>)ViewBag.Categories, "Select Category...")
+
+            Brand:
+            @Html.DropDownList("prodBrand", (IEnumerable<SelectListItem>)ViewBag.Brands, "Select Brand...")
+        </p>
+
+        <p>
+            Search: <input type="text" name="SearchString" />
+        </p>
+
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fielset>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Product Description
+            </th>
+            <th>
+                Product Price
+            </th>
+            <th>
+                Stock Status
+            </th>
+            <th>
+                Category
+            </th>
+            <th>
+                Brand
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @if (item.StockLevel > 0)
+                    {
+                        <p style="color: green">
+                            @Html.DisplayFor(modelItem => item.StockStatus)
+                        </p>
+                    }
+                    else
+                    {
+                        <p style="color: red">
+                            @Html.DisplayFor(modelItem => item.StockStatus)
+                        </p>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Brand)
+                </td>
+                <td>
+                    @inject IHttpContextAccessor HttpContextAccessor
+                    @if (@HttpContextAccessor.HttpContext.Session.GetString("userid") != null)
+                    {
+                        @if (item.StockLevel > 0)
+                        {
+                        <a asp-controller="Cart" asp-action="Buy" asp-route-id="@item.Id">Add to Cart</a> <span>|</span>
+                        }
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                     }
+                    else
+                    {
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    }
+                </td>
+            </tr>
+        }
+</tbody>
+</table>

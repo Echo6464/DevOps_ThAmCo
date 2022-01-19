@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Checkout</h1>
+<table class="table">
+    <tbody>
+        <tr>
+            <th>
+                Total Amount
+            </th>
+        </tr>
+        <tr>
+            <th>
+                @ViewBag.total
+            </th>
+        </tr>
+    </tbody>
+</table>
+<a asp-controller="checkout" asp-action="create" asp-route-id="">Confirm</a> |
+<a asp-controller="cart" asp-action="index" asp-route-id="">Cancel</a>
+

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Producks.Data.Order>
+
+@{
+    ViewData["Title"] = "Dispatched Orders";
+}
+
+<h1>Orders</h1>
+
+<p>
+    <a asp-action="Index">All</a> | <a asp-action="IndexPending">Pending</a> | <a asp-action="IndexReadyToDispatch">Ready to Dispatch</a> | Dispatched | | <a asp-action="IndexCancelled">Cancelled</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Customer
+            </th>
+            <th>
+                Total Price
+            </th>
+            <th>
+                Order Date
+            </th>
+            <th>
+                Order Status
+            </th>
+            <th>
+                Delivery Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Customer.CustName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order_Date)
+                </td>
+                <td>
+                    <p style="color: green">@Html.DisplayFor(modelItem => item.Order_Status)</p>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Delivery_Date)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Cancel" asp-route-id="@item.Id">Cancel Order</a>
+                </td>
+            </tr>
+            }
+    </tbody>
+</table>

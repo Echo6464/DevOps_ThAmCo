@@ -1,0 +1,114 @@
+@model IEnumerable<Producks.Web.ViewModels.ProductVM>
+
+@{
+    ViewData["Title"] = "Product Index Page";
+}
+
+<h1>List of Products</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@using (Html.BeginForm("Index", "Products", FormMethod.Get))
+{
+    <fielset>
+        <p>
+            Category:
+            @Html.DropDownList("prodCat", (IEnumerable<SelectListItem>)ViewBag.Categories, "Select Category...")
+
+            Brand:
+            @Html.DropDownList("prodBrand", (IEnumerable<SelectListItem>)ViewBag.Brands, "Select Brand...")
+        </p>
+
+        <p>
+            Search: <input type="text" name="SearchString" />
+        </p>
+
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fielset>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Product Description
+            </th>
+            <th>
+                Product Price
+            </th>
+            <th>
+                Stock Level
+            </th>
+            <th>
+                Stock Status
+            </th>
+            <th>
+                Category
+            </th>
+            <th>
+                Brand
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @if (item.StockLevel > 0)
+                    {
+                        <p>
+                            @Html.DisplayFor(modelItem => item.StockLevel)
+                        </p>
+                    }
+                    else
+                    {
+                        <p style="color: red">
+                            @Html.DisplayFor(modelItem => item.StockLevel)
+                        </p>
+                    }
+                </td>
+                <td>
+                    @if (item.StockLevel > 0)
+                    {
+                        <p style="color: green">
+                            @Html.DisplayFor(modelItem => item.StockStatus)
+                        </p>
+                    }
+                    else
+                    {
+                        <p style="color: red">
+                            @Html.DisplayFor(modelItem => item.StockStatus)
+                        </p>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Brand)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

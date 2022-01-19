@@ -1,0 +1,93 @@
+﻿@model Producks.Data.Customer
+
+@{
+    ViewData["Title"] = "Profile Details";
+}
+
+<h1>Profile Details</h1>
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CustName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CustName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CustEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CustEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CustPassword)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CustPassword)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Contact)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Contact)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit Profile</a>
+</div>
+<p>
+    <br/>
+</p>
+<div>
+    <h4>Order History:</h4>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Order Id
+                </th>
+                <th>
+                    Order Total Price
+                </th>
+                <th>
+                    Order Date
+                </th>
+                <th>
+                    Order Status
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Orders)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order_Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order_Status)
+                </td>
+                <td>
+                    <a asp-action="OrdDetails" asp-route-id="@item.Id">Details</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

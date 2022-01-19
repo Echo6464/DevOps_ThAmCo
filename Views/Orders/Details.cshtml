@@ -1,0 +1,59 @@
+﻿@model Producks.Data.Order
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h1>Order Details</h1>
+
+<div>
+    <h4>Order Id: @Html.DisplayFor(model => model.Id)</h4>
+    <h4>Customer: @Html.DisplayFor(model => model.Customer.CustName)</h4>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Product
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Price Per Item
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderDetails)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.quantity)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product.Price)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    @if (Model.Order_Status.Equals("Pending"))
+    {
+        <a asp-action="ReadyToDispatch" asp-route-id="@Model.Id">Ready To Dispatch</a> <span>|</span>
+    }
+    else if (Model.Order_Status.Equals("Ready To Dispatch"))
+    {
+        <a asp-action="Dispatch" asp-route-id="@Model.Id">Dispatch</a> <span>|</span>
+    }
+    @if (!Model.Order_Status.Equals("Cancelled"))
+    {
+        <a asp-action="Cancel" asp-route-id="@Model.Id">Cancel Order</a> <span>|</span>
+    }
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Producks.Data.Order>
+
+@{
+    ViewData["Title"] = "All Orders";
+}
+
+<h1>Orders</h1>
+
+<p>
+    All | <a asp-action="IndexPending">Pending</a> | <a asp-action="IndexReadyToDispatch">Ready to Dispatch</a> | <a asp-action="IndexDispatched">Dispatched</a> | <a asp-action="IndexCancelled">Cancelled</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Customer
+            </th>
+            <th>
+                Total Price
+            </th>
+            <th>
+                Order Date
+            </th>
+            <th>
+                Order Status
+            </th>
+            <th>
+                Delivery Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.CustName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_Date)
+            </td>
+            <td>
+                @if (item.Order_Status.Equals("Pending"))
+                {
+                    <p style=" color: #ffd800">@Html.DisplayFor(modelItem => item.Order_Status)</p>
+                }
+                else if (item.Order_Status.Equals("Ready To Dispatch"))
+                {
+                    <p style="color: orange">@Html.DisplayFor(modelItem => item.Order_Status)</p>
+                }
+                else if (item.Order_Status.Equals("Dispatched"))
+                {
+                    <p style="color: green">@Html.DisplayFor(modelItem => item.Order_Status)</p>
+                }
+                else if (item.Order_Status.Equals("Cancelled"))
+                {
+                    <p style="color: red">@Html.DisplayFor(modelItem => item.Order_Status)</p>
+                }
+                else
+                {
+                    @Html.DisplayFor(modelItem => item.Order_Status)
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Delivery_Date)
+            </td>
+            <td>
+                @if (item.Order_Status.Equals("Pending"))
+                {
+
+                    <a asp-action="ReadyToDispatch" asp-route-id="@item.Id">Ready To Dispatch</a> <span>|</span>
+                }
+                else if (item.Order_Status.Equals("Ready To Dispatch"))
+                {
+                    <a asp-action="Dispatch" asp-route-id="@item.Id">Dispatch</a> <span>|</span>
+                }
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                @if (!item.Order_Status.Equals("Cancelled"))
+                {
+                <span>|</span> <a asp-action="Cancel" asp-route-id="@item.Id">Cancel Order</a>
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

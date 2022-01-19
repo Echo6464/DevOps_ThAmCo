@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Home Page";
+}
+@inject IHttpContextAccessor HttpContextAccessor
+@if (@HttpContextAccessor.HttpContext.Session.GetString("userid") == null)
+{
+    <div class="text-center">
+        <h1 class="display-4">Welcome to the ThreeAmigos Corp </h1>
+        <p>You may <a href="@Url.Action("Register","Accounts")">Register</a> for an account or <a href="@Url.Action("Login","Accounts")">Sign In</a> to start purchasing!</p>
+    </div>
+}
+else if (@HttpContextAccessor.HttpContext.Session.GetString("role").Equals("Customer"))
+{
+    <div class="text-center">
+        <h1 class="display-4">Dear Customer, Welcome to the ThreeAmigos Corp </h1>
+        <p>You may go to the <a href="@Url.Action("Index","ProductsCustomerView")">Products Page</a> to start purchasing!</p>
+    </div>
+}
+else if (@HttpContextAccessor.HttpContext.Session.GetString("role").Equals("Staff") || @HttpContextAccessor.HttpContext.Session.GetString("role").Equals("Management"))
+{
+<div class="text-center">
+    <h1 class="display-4">Dear Staff, Welcome to the ThreeAmigos Corp Management Page </h1>
+    <p>This is the backend page in which you may manage all admin-side related information.</p>
+    @if (@HttpContextAccessor.HttpContext.Session.GetString("role").Equals("Management"))
+    {
+        <p>As a staff of the Management Level, you may manage the Staff details as well.</p>
+    }
+</div>
+}
+
