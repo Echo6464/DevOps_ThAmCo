@@ -1,0 +1,64 @@
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csprojAssemblyReference.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.CoreCompileInputs.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\RepriseMyProducks-Lab2\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csprojAssemblyReference.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.CoreCompileInputs.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.AssemblyReference.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.CoreCompileInputs.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csprojAssemblyReference.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.AssemblyReference.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.CoreCompileInputs.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csprojAssemblyReference.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.deps.json
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\bin\Debug\netcoreapp3.1\Producks.Undercutter.pdb
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.csprojAssemblyReference.cache
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.AssemblyInfo.cs
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.dll
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Undercutter\obj\Debug\netcoreapp3.1\Producks.Undercutter.pdb

@@ -1,0 +1,134 @@
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.AssemblyReference.cache
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Lian Kei\Desktop\TeesWAS-reprisemyproducks-6364aa389fd2\TeesWAS-reprisemyproducks-6364aa389fd2\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.AssemblyReference.cache
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+D:\OneDrive - FIRST CITY UNIVERSITY COLLEGE\Sep 2021\Cloud System DevOps\Testing\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\liankei.soo\Downloads\Product-Post3.1 - Lab1\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\LIANKEI.SOO\Downloads\Product-Post3.1 - Lab2\Product-Post3.1 - Lab1\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\liankei.soo\Downloads\RepriseMyProducks-Lab3\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.AssemblyReference.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Liao Xing Hang\Downloads\RepriseMyProducks-Lab4\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Edison\Desktop\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.AssemblyReference.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Liao Xing Hang\Downloads\producksdonedb (1)\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Edison\Desktop\producksdonemerge\producksdonedb\producksdonedb\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\Edison\Desktop\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.deps.json
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.json
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\bin\Debug\netcoreapp3.1\Producks.Data.pdb
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.dll
+C:\Users\user\Desktop\devop\final final\DevOps Assignment\RepriseMyProducks-Lab4\Producks.Data\obj\Debug\netcoreapp3.1\Producks.Data.pdb
